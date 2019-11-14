@@ -1,7 +1,7 @@
 # -_-_firefox_hybrid_2019 linux
 aptik скрещивание версии чистота цветов насыщенность цветовая гамма синематик смотреть кино в новых цветах lamp color
 
-inpack firefox run in terminal 
+inpack firefox.zip run in terminal 
 
 После распаковки заходим в папку firefox и в терминале выполняем
 

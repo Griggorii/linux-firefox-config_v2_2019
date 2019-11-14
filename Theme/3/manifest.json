@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Theme3_by_Griggorii",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(3, 52, 45)",
+      "toolbar_text": "rgb(255, 186, 0)",
+      "frame": "rgb(35, 50, 43)",
+      "tab_background_text": "rgb(255, 172, 0)",
+      "toolbar_field": "rgb(0, 0, 0)",
+      "toolbar_field_text": "rgb(255, 159, 0)",
+      "tab_line": "rgb(10, 240, 10)",
+      "popup": "rgb(12, 41, 12)",
+      "popup_text": "rgb(255, 0, 0)",
+      "tab_loading": "rgb(10, 240, 10)"
+    }
+  }
+}

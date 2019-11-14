@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Theme1_griggorii",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.jpg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(28, 67, 82)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(22, 54, 75)",
+      "tab_background_text": "rgb(148, 157, 173)",
+      "toolbar_field": "rgba(0, 0, 0, 0.2)",
+      "toolbar_field_text": "rgb(255, 0, 4)",
+      "tab_line": "rgb(0, 255, 34)",
+      "popup": "rgb(22, 54, 75)",
+      "popup_text": "rgb(133, 255, 0)",
+      "tab_loading": "rgb(0, 255, 34)"
+    }
+  }
+}

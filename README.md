@@ -1,4 +1,4 @@
-# -_-_firefox_hybrid_2019 linux
+# linux-firefox-config_v2_2019 example config video https://radikal.ru/video/2oGdvPNR5uy
 aptik скрещивание версии чистота цветов насыщенность цветовая гамма синематик смотреть кино в новых цветах lamp color
 
 inpack firefox.zip run in terminal 

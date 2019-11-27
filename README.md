@@ -1,4 +1,6 @@
-# linux-firefox-config_v2_2019 example config video https://radikal.ru/video/2oGdvPNR5uy
+# linux-firefox-config_v2_2019 example config video 
+https://radikal.ru/video/2oGdvPNR5uy
+Firefox ESR52 https://radikal.ru/video/ime9zLKAWIJ
 aptik скрещивание версии чистота цветов насыщенность цветовая гамма синематик смотреть кино в новых цветах lamp color посвящено вымиранию пчел и оболочка шапка в пчелином стиле говорят что из за 5G по этому надо сворачивать внедрение что бы проверить версию иначе все те 90% процентов растении не будут опылены и будет овощная ягодная и другие катастрофы по цепочке , даже птицы помирают от 5G так что всё сходится и надо проверять иначе последующие растения будут опылять гусницы.
 
 inpack firefox.zip run in terminal 

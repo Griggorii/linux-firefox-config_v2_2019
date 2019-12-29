@@ -2,7 +2,7 @@
 
 Download firefox not tearing https://drive.google.com/open?id=1y_ACaSu46bSS2NlyG4Eq50LsUwlpgMqn
 
-sudo tar xvpfj Firefox_omni.tar.xz -C /
+$$ sudo tar xvpfj Firefox_omni.tar.xz -C /
 
 $$ cd~
 

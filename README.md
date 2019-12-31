@@ -1,6 +1,6 @@
 # linux-firefox-config_v2_2019 example config video best browser 2020 color | gamma | icc profile srgb
 
-Download firefox not tearing https://drive.google.com/open?id=1y_ACaSu46bSS2NlyG4Eq50LsUwlpgMqn заменяет firefox 71 версии в которой будет тиринг если у вас 69 версия то можете этого не делать и начать с cd ~
+Download firefox 69.0.2 + tool Web-Ide not tearing https://drive.google.com/open?id=1y_ACaSu46bSS2NlyG4Eq50LsUwlpgMqn заменяет firefox 71 версии в которой будет тиринг если ваша убунту ниже версии 19.10 если у вас 69 версия то можете этого не делать и начать с cd ~
 
 $$ sudo tar xvpfj Firefox_omni.tar.xz -C /
 

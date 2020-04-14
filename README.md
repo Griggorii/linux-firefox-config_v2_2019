@@ -5,7 +5,7 @@ Download firefox 69.0.2 + tool Web-Ide not tearing https://drive.google.com/open
 Download firefox 70.0.1 no tool Web-Ide not tearing https://drive.google.com/open?id=1NGe8iGOrq4ScrLIbEdXVKhXh0iAiLZJp
 самая свежая версия в которой нет такого инструмента как web-ide заменяет firefox 71 версии в которой будет тиринг
 
-$$ sudo tar xvpfj Firefox_omni.tar.xz -C /
+$$ sudo tar xvpf Firefox_omni.tar.xz -C /
 
 $$ cd~
 

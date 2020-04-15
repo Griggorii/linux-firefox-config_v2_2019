@@ -7,8 +7,6 @@ Download firefox 70.0.1 no tool Web-Ide not tearing https://yadi.sk/d/3iadAsjys5
 
 $$ sudo rm -rf /usr/lib/firefox/ && sudo tar xvpf Firefox_omni.tar.xz -C / 
 
-&& rm -rf ~/.mozilla/firefox/OS19ubuntu19.04.default/compatibility.ini
-
 $$ cd~
 
 $$ git clone https://github.com/Griggorii/linux-firefox-config_v2_2019.git
